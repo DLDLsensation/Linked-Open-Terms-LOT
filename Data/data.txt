@@ -1,0 +1,1 @@
+Se almacenarán todos los datos de entrada menos los use cases
